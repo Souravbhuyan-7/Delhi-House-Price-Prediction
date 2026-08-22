@@ -152,6 +152,3 @@ def train_model():
     print("Model saved successfully!")
     print("Saved location:", MODEL_PATH)
 
-
-if __name__ == "__main__":
-    train_model()
