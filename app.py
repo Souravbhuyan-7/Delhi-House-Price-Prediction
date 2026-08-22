@@ -83,9 +83,9 @@ bathroom = st.number_input(
 
 parking = st.number_input(
     "Number of Parking Spaces",
-    min_value=1,
+    min_value=0,
     max_value=5,
-    value=1
+    value=0
 )
 
 
